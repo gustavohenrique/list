@@ -15304,6 +15304,10 @@ orsites.com
 // Submitted by Yngve Pettersen <yngve@opera.com>
 operaunite.com
 
+// OpsTunnel : https://opstunnel.app
+// Submitted by OpsTunnel Team <support@opstunnel.app>
+opstunnel.link
+
 // Oracle Dyn : https://cloud.oracle.com/home https://dyn.com/dns/
 // Submitted by Gregory Drake <support@dyn.com>
 // Note: This is intended to also include customer-oci.com due to wildcards implicitly including the current label
